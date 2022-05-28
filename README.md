@@ -1,7 +1,6 @@
 
 folowing  
 TechWorld with Nana
-
 Docker Turorial
 
 https://youtu.be/3c-iBn73dDE

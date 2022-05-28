@@ -1,5 +1,5 @@
 
-foolowing  
+folowing  
 TechWorld with Nana
 
 Docker Turorial
